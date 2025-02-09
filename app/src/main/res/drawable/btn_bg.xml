@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFF8E1" /> <!-- हल्का क्रिम कलर -->
+    <corners android:radius="16dp" />
+    <stroke android:color="#FFD700" android:width="2dp" /> <!-- गोल्डन बॉर्डर -->
+</shape>

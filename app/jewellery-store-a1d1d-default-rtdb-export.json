@@ -1,0 +1,74 @@
+{
+  "jewellery_items": [
+    {
+      "image": "https://i.postimg.cc/W4h69MTm/1.png",
+      "name": "Gold Necklace",
+      "price": 590.38,
+      "product_id": "0",
+      "weight": "20g"
+    },
+    {
+      "image": "https://i.postimg.cc/qRKcr4tz/2.png",
+      "name": "Diamond Ring",
+      "price": 944.6,
+      "product_id": "1",
+      "weight": "5g"
+    },
+    {
+      "image": "https://i.postimg.cc/qqX8twxr/3.png",
+      "name": "Silver Bracelet",
+      "price": 236.15,
+      "product_id": "2",
+      "weight": "15g"
+    },
+    {
+      "image": "https://i.postimg.cc/ncpK88nh/4.png",
+      "name": "Platinum Earrings",
+      "price": 1180.75,
+      "product_id": "3",
+      "weight": "10g"
+    },
+    {
+      "image": "https://i.postimg.cc/kG2DDL6V/5.png",
+      "name": "Gold Ring",
+      "price": 354.23,
+      "product_id": "4",
+      "weight": "8g"
+    },
+    {
+      "image": "https://i.postimg.cc/QNw9zgyX/9.png",
+      "name": "Diamond Necklace",
+      "price": 1771.13,
+      "product_id": "5",
+      "weight": "25g"
+    },
+    {
+      "image": "https://example.com/images/silver_earrings.jpg",
+      "name": "Silver Earrings",
+      "price": 177.11,
+      "product_id": "6",
+      "weight": "6g"
+    },
+    {
+      "image": "https://i.postimg.cc/7LVtBWBQ/6.png",
+      "name": "Platinum Bracelet",
+      "price": 1416.9,
+      "product_id": "7",
+      "weight": "18g"
+    },
+    {
+      "image": "https://i.postimg.cc/65jN5zCZ/7.png",
+      "name": "Gold Bangles",
+      "price": 708.45,
+      "product_id": "8",
+      "weight": "30g"
+    },
+    {
+      "image": "https://i.postimg.cc/d1gmsb41/8.png",
+      "name": "Diamond Earrings",
+      "price": 1062.68,
+      "product_id": "9",
+      "weight": "12g"
+    }
+  ]
+}
