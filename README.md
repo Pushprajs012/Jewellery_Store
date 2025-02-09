@@ -6,7 +6,7 @@ Welcome to the Jewellery Store App repository! This app is built using Android (
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Pushprajs012/Jewellery_Store.git
+git clone [https://github.com/Pushprajs012/Jewellery_Store.git](https://github.com/Pushprajs012/Jewellery_Store.git)
 cd Jewellery_Store
 
 2️⃣ Connect to Firebase
